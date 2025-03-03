@@ -26,3 +26,7 @@ signatory.country = "フランス"
 signatory.area = "西ヨーロッパ"
 puts signatory.country
 puts signatory.area
+
+#解説
+#セッターはインスタンス変数の値を設定するためのメソッドでありインスタンス変数の値を外部から変更することができる。
+#今回はcountry=メソッドとarea=メソッドを使って、インスタンス変数の値を設定することで変更することができる。
